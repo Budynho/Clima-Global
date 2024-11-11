@@ -1,4 +1,4 @@
-const apiKey = '6588ff40fe4c1e4d1a70192c5ca88f45'; // Chave API
+const apiKey = 'API KEY'; // Chave API
 
 // Função para pegar o clima
 function getWeather() {
